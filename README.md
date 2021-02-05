@@ -1,2 +1,10 @@
-# job-postings
-Curated list of job opportunities for new CS UMD grads or internship seekers.  Preference towards networking and cybersecurity.
+Job Postings (Full Time)
+========================
+
+This is the full-time branch - here you can find files corresponding to job postings from various companies.  
+
+## Featured companies
+
+| Company | Position | Contact | Referral? |
+| ------- | -------- | ------- | --------- |
+|         |          |         |           |
